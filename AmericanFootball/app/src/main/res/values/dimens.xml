@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">4dp</dimen>
+
+    <dimen name="teamName_marginTop">8dp</dimen>
+    <dimen name="teamName_marginBottom">12dp</dimen>
+
+    <dimen name="teamScore_marginBottom">16dp</dimen>
+
+    <dimen name="scorePoints_marginBottom">8dp</dimen>
+    <dimen name="scorePoints_marginRL">16dp</dimen>
+
+    <dimen name="resetButton_marginRL">4dp</dimen>
+</resources>
